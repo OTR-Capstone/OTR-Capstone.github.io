@@ -10,7 +10,7 @@ Raiways account for one third of U.S. exports, making them a vital economic reso
 ### Meet Our [Team](https://OTR-Capstone.github.io/meet_our_team)
 
 
-### Understand Our [Process]
+### Understand Our [Process](https://OTR-Capstone.github.io/our_process)
 
 
 ### Access Our [Notebooks]
