@@ -2,16 +2,16 @@
 
 ![David Berchelmann](https://s3.amazonaws.com/alumni.codeup.com/DavidBerchelmann.jpg)
 
-David Berchelmann has a background in Project Management.
+David Berchelmann has a background in Project Management. He likes pancakes.
 
 ![Stephen Kane](https://s3.amazonaws.com/alumni.codeup.com/StephenKane.jpg)
 
-Stephen Kane graduated forom UTSA with a BBA in CyberSecurity.
+Stephen Kane graduated from UTSA with a BBA in CyberSecurity. 
 
-![Justin Sullivan](https://s3.amazonaws.com/alumni.codeup.com/JustinM.Sullivan.jpg)
+![JustinM.Sullivan](https://s3.amazonaws.com/alumni.codeup.com/JustinM.Sullivan.jpg)
 
-Justin Sullivan likes cats.
+Justin Sullivan has performed a one-man rendition of "Cats" to, ironically, an audience of stray dogs behind the Majestic Theater.
 
 ![Gabriela Tijerina](https://s3.amazonaws.com/alumni.codeup.com/GabrielaTijerina.jpg)
 
-Gabriela once worked with Carrot Top.
+Gabriela once worked with Carrot Top. He's less funny in real life, which is kind of hard to imagine...Carrot Top being any "less funny"
