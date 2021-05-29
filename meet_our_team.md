@@ -1,10 +1,10 @@
 # Meet Our Team
 
-![David Berchelmann](https://s3.amazonaws.com/alumni.codeup.com/David.jpg)
+![David Berchelmann](https://s3.amazonaws.com/alumni.codeup.com/DavidBerchelmann.jpg)
 
 David Berchelmann has a background in Project Management.
 
-![Stephen Kane](https://s3.amazonaws.com/alumni.codeup.com/Stephen.jpg)
+![Stephen Kane](https://s3.amazonaws.com/alumni.codeup.com/StephenKane.jpg)
 
 Stephen Kane graduated forom UTSA with a BBA in CyberSecurity.
 
