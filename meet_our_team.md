@@ -16,4 +16,4 @@ Justin Sullivan has performed a one-man rendition of "Cats" to, ironically, an a
 
 Gabriela Tijerina once worked with Carrot Top. He's less funny is real life, which is hard to imagine...Carrot Top being "less funny"
 
-Back to the [junction](https://en.wikipedia.org/wiki/Dog)
+Back to the [junction](https://otr-capstone.github.io/)
