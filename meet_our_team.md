@@ -14,6 +14,6 @@ Justin Sullivan has performed a one-man rendition of "Cats" to, ironically, an a
 
 ![Gabriela Tijerina](https://s3.amazonaws.com/alumni.codeup.com/GabrielaTijerina.jpg)
 
-Gabriela Tijerina once worked with Carrot Top. He's less funny is real life, which is hard to imagine...Carrot Top being "less funny"
+Gabriela Tijerina is a results-driven data scientist with a diverse and creative background. She enjoys reading, watching movies, trying new restaurants, and asking people if they like the Grateful Dead. She is currently reading Eileen by Ottessa Moshfegh and Good Charts by Scott Berinato.
 
 Back to the [junction](https://otr-capstone.github.io/)
