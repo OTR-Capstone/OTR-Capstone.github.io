@@ -6,7 +6,7 @@ David Berchelmann has a background in Project Management. He likes pancakes.
 
 ![Stephen Kane](https://s3.amazonaws.com/alumni.codeup.com/StephenKane.jpg)
 
-Stephen Kane graduated from UTSA with a BBA in CyberSecurity. 
+Stephen Kane strives to bring the human element to Data Science by finding the relatable story underneath the 1's and 0's. He graduated from UTSA with a BBA in CyberSecurity. 
 
 ![JustinM.Sullivan](https://s3.amazonaws.com/alumni.codeup.com/JustinM.Sullivan.jpg)
 
