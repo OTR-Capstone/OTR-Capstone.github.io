@@ -2,7 +2,7 @@
 
 ![David Berchelmann](https://s3.amazonaws.com/alumni.codeup.com/DavidBerchelmann.jpg)
 
-David Berchelmann has a background in Project Management. He likes pancakes.
+David Berchelmann has a background in Project Management.
 
 ![Stephen Kane](https://s3.amazonaws.com/alumni.codeup.com/StephenKane.jpg)
 
