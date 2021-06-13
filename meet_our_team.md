@@ -2,7 +2,7 @@
 
 ![David Berchelmann](https://s3.amazonaws.com/alumni.codeup.com/DavidBerchelmann.jpg)
 
-David Berchelmann has a background in Project Management.
+David Berchelmann is an accomplished data scientist and has a background in Project Management. 
 
 ![Stephen Kane](https://s3.amazonaws.com/alumni.codeup.com/StephenKane.jpg)
 
@@ -10,7 +10,7 @@ Stephen Kane strives to bring the human element to Data Science by finding the r
 
 ![JustinM.Sullivan](https://s3.amazonaws.com/alumni.codeup.com/JustinM.Sullivan.jpg)
 
-Justin Sullivan has performed a one-man rendition of "Cats" to, ironically, an audience of stray dogs behind the Majestic Theater.
+Justin Sullivan is a talented data scientist and an excellent communicator.
 
 ![Gabriela Tijerina](https://s3.amazonaws.com/alumni.codeup.com/GabrielaTijerina.jpg)
 
